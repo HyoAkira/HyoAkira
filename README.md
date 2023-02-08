@@ -5,5 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyoakira" alt="hyoakira" /></a> </p>
 
-- 🌱 I’m currently learning **threejs, tailwind**
+- 🌱 I’m currently learning **c/cpp**
+
 
