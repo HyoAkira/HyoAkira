@@ -19,6 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HyoAkira&icon=0&color=3)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyoakira&label=Profile%20views&color=0e75b6&style=plastic" alt="hyoakira" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
