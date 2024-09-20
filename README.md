@@ -1,4 +1,2 @@
-> ????
-
-*Experienced self-taught Webmaster reincarnated as a Computer Engineer.*
-
+Learning and growing as a developer.
+Passionate about open source contributions.
