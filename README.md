@@ -1,2 +1,3 @@
-Learning and growing as a developer.
-Passionate about open source contributions.
+👋 Hi, I’m @HyoAkira
+👀 I’m interested in engineering and computer science. Mostly backend stuffs.
+
